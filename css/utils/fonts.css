@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Pinyon Script';
+    src: url('../../fonts/PinyonScript.eot');
+    src: url('../../fonts/PinyonScript.eot') format('embedded-opentype'),
+        url('../../fonts/PinyonScript.woff2') format('woff2'),
+        url('../../fonts/PinyonScript.woff') format('woff'),
+        url('../../fonts/PinyonScript.ttf') format('truetype'),
+        url('../../fonts/PinyonScript.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../fonts/Roboto-Light.eot');
+    src: url('../../fonts/Roboto-Light.eot') format('embedded-opentype'),
+        url('../../fonts/Roboto-Light.woff2') format('woff2'),
+        url('../../fonts/Roboto-Light.woff') format('woff'),
+        url('../../fonts/Roboto-Light.ttf') format('truetype'),
+        url('../../fonts/Roboto-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Medium';
+    src: url('../../fonts/Roboto-Medium.eot');
+    src: url('../../fonts/Roboto-Medium.eot') format('embedded-opentype'),
+        url('../../fonts/Roboto-Medium.woff2') format('woff2'),
+        url('../../fonts/Roboto-Medium.woff') format('woff'),
+        url('../../fonts/Roboto-Medium.ttf') format('truetype'),
+        url('../../fonts/Roboto-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
