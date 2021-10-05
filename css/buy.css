@@ -84,7 +84,9 @@ option {
     font-size: 2rem;
     pointer-events: none;
 }
-
+body {
+    background-color: red !important;
+}
 input[type=number]::-webkit-outer-spin-button,
 input[type=number]::-webkit-inner-spin-button {
   -webkit-appearance: none;
