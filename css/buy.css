@@ -83,19 +83,9 @@ option {
     line-height: 5rem;
     font-size: 2rem;
     pointer-events: none;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
 }
-body {
-    background-color: red !important;
-}
-input[type=number]::-webkit-outer-spin-button,
-input[type=number]::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-}
-
-input[type=number] {
-  -moz-appearance: textfield;
-}
-
 
 .btn-disable {
     pointer-events: none;
